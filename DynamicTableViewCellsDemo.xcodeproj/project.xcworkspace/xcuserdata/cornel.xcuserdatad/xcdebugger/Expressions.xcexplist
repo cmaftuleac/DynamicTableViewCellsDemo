@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[Complex2TypeCell configureWithData:]:Complex2TypeCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bottomConstraint.active">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
